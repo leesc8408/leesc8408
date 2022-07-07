@@ -1,0 +1,7 @@
+- 프로필에 많이 쓰는
+  - [github_readme_소스](https://github.com/anuraghazra/github-readme-stats)
+  - [shields_각종아이콘?](https://shields.io/)
+  - [badge_상호](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- 기타
+  - [.gitignore](https://gitignore.io)
+  - [Git - Book (git-scm.com)](https://git-scm.com/book/ko/v2)
